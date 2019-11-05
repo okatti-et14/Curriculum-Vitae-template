@@ -4,35 +4,38 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+|Name|飯岡　巧巳 (Iioka Takumi)|
 
 ## スキル
 ### 言語
-- Ruby
-- PHP
-- Java
-- などなど
+- VB.NET 4.6.1
+- Java 8
 
 ### フレームワーク
 
-- Ruby on Rails
-- Laravel
 - Spring Boot
-- などなど
 
 ### その他
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+#### バージョン管理
+
+- Git
+- GitHub
+
+#### タスク管理
+
+- Redmine
+
+#### Webサーバー
+
+- IIS
 
 ## 言語
 
 - 日本語
   - ネイティブ
 - 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
+  - 機械翻訳の補助があれば技術文書を読める。
 
 ## 強み
 
