@@ -54,6 +54,9 @@
 ## やったことはないが興味があるもの
  - Django2.2を用いたWeb開発
    - 趣味の一貫で大学時代に所属していたサークル向けの会計伝票作成サイトを開発中
+     - https://coniva.appspot.com/accounting_report/
+     - user:14S1001R
+     - pass:foodandfood
 
 ## 職務経歴
 
