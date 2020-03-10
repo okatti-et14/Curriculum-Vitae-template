@@ -28,7 +28,7 @@
 
  ### データベース
 
- - Oracle 11g / Oracle 12c / MySQL 5.7
+ - Oracle 11g / Oracle 12c / MySQL 5.7 / SQL Server
 
  ### 資格等
 
