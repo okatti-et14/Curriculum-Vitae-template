@@ -67,6 +67,12 @@
    - リポジトリ
      - https://github.com/okatti-et14/coniva_website
 
+ - ポートフォリオ用掲示板(Rails6)
+   - サイト
+     - https://dev-bbs.herokuapp.com/
+   - リポジトリ
+     - https://github.com/okatti-et14/dev_bbs
+
  - Rasberry Pi Zero WH　を用いたスマートリモコン制作
    - Line botと連携して照明のON/OFFをする
 
