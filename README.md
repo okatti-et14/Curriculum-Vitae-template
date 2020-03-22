@@ -2,9 +2,7 @@
 
 ## 基本情報
 
-|key|value|
-|---|-----|
-|Name|飯岡　巧巳 (Iioka Takumi)|
+|名前(Name)|飯岡　巧巳 (Iioka Takumi)|
 
 ## スキル
  ### 言語（業務利用経験があるもの）
@@ -75,6 +73,12 @@
 
  - Rasberry Pi Zero WH　を用いたスマートリモコン制作
    - Line botと連携して照明のON/OFFをする
+
+ - 読中の技術書
+   - 新しいLinuxの教科書
+     - シェルに関する知識補完のため
+   - 直感DeepLearning
+     - AI関連の知識習得のため
 
 ## 職務経歴
 
